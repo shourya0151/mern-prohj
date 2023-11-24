@@ -3,12 +3,12 @@ import React from 'react'
 export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Gupta Eperior</h1>
-      <p className='mb-4 text-slate-700'>Sahand Estate is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.</p>
-      <p className='mb-4 text-slate-700'>
-      Our mission is to help our clients achieve their real estate goals by providing expert advice, personalized service, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, we are here to help you every step of the way.
+      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About BookoMania</h1>
+      <p className='mb-4 text-slate-500'>Welcome to BookoMania, where we specialize in transforming visions into remarkable experiences. As a passionate team of seasoned event professionals, we bring creativity, precision, and personalized attention to every project, ensuring that each event, from intimate gatherings to grand celebrations, is tailored to perfection. Our client-centric approach prioritizes your satisfaction, and our proven track record reflects our commitment to excellence. With a keen eye for detail and a flair for creative innovation, we take care of the intricacies, allowing you to focus on enjoying the moment. Let's collaborate to curate unforgettable memories together – at BookoMaia, we don't just plan events; we craft exceptional experiences.</p>
+      <p className='mb-4 text-slate-500'>
+      Our mission is to help our clients achieve their goals by providing expert advice, personalized service, and a deep understanding of the local market.
       </p>
-      <p className='mb-4 text-slate-700'>Our team of agents has a wealth of experience and knowledge in the real estate industry, and we are committed to providing the highest level of service to our clients. We believe that buying or selling a property should be an exciting and rewarding experience, and we are dedicated to making that a reality for each and every one of our clients.</p>
+  
     </div>
   )
 }
